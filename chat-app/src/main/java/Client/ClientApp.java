@@ -16,7 +16,7 @@ public class ClientApp extends Application {
         Parent root= FXMLLoader.load(Objects.requireNonNull(getClass().getResource("/login.fxml")));
         Scene scene = new Scene(root);
         stage.setScene(scene);
-        stage.setTitle("Login");
+        stage.setTitle("Chat2000");
         stage.show();
     }
 
