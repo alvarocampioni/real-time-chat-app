@@ -61,11 +61,6 @@ connection = DriverManager.getConnection(
 Make sure both of them are running when using the app to avoid errors.
 
 
-## Demo
-
-![App demo](https://github.com/user-attachments/assets/ebb2cdc6-f72d-4eb4-8091-c9487dececb2)
-
-
 ## Contact
 Email: alvarocampioni@usp.br
 
